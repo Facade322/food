@@ -1,0 +1,13 @@
+.content_container {
+  display: block;
+  width: 100%;
+  height: calc(100vh - 107px);
+  position: relative;
+}
+
+.typo_ {
+  position: absolute;
+  left: 50px;
+  top: 50%;
+  transform: translateY(-50%);
+}
